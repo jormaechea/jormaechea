@@ -1,4 +1,4 @@
-![@jormaechea github stats](https://github-readme-stats.vercel.app/api?username=jormaechea&hide_rank=true&show_icons=true&icon_color=0366d6&title_color=0366d6&hide_border=true)
+![@jormaechea github stats](https://github-readme-stats.vercel.app/api?username=jormaechea&hide_rank=false&show_icons=true&icon_color=0366d6&title_color=0366d6&hide_border=true&custom_title=My+github+stats&bg_color=0d1117&text_color=c9d1d9)
 
 <!--
 **jormaechea/jormaechea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
